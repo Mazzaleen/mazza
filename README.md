@@ -1,4 +1,4 @@
-# mazza
+# Personal Portfoilio Website: Mazza
 *Portfolio website that utilizes Bootstrap and Javascript. Also uses GitHub pages to host*
 
 
