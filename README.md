@@ -1,5 +1,5 @@
 # mazza
-*Portfolio website that utilizes Bootstrap and Javascript. Also uses GitHub pages to host. *
+*Portfolio website that utilizes Bootstrap and Javascript. Also uses GitHub pages to host*
 
 
 Index.html - Contains home page
